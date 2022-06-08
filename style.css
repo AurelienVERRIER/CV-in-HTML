@@ -1,0 +1,54 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.identité {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width:400px
+}
+
+.titre{
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+.recherche {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.compétences {
+    color: blue;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: space-around;
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    margin-right: 10px;
+}
+
+h3{
+    display: inline;
+}
+
