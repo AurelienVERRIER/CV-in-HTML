@@ -40,6 +40,22 @@ main {
     align-content: space-around;
 }
 
+span{
+    color: blue;
+}
+
+strong{
+    font-weight: bold;
+}
+
+h2{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 1.5em;
+
+}
+
 li {
     margin: 10px;
 }
@@ -52,3 +68,7 @@ h3{
     display: inline;
 }
 
+footer{
+    display: flex;
+    align-content: space-between;
+}
